@@ -7,7 +7,7 @@ class Login_System:
             self.root.title("Login System")
             self.root.geometry("1350x700")        
 
-            self.bg_icon=ImageTk.PhotoImage(file="images/download.jpg")
+            self.bg_icon=ImageTk.PhotoImage(file="images/d.jpg")
             self.user_icon=PhotoImage(file="images/user.png")
             self.pass_icon=PhotoImage(file="images/pass.png")
             self.logo_icon=PhotoImage(file="images/log.png")
